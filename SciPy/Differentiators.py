@@ -1,3 +1,4 @@
+import numpy as np
 def twoPtForwardDiff(x,y):
     #Subtracts the difference from current value from the one in front of it 
     #for both x and y and return change y/ change x. (Forward difference).
